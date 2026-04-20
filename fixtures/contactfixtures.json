@@ -1,0 +1,15 @@
+{
+  "contact":{
+     "firstName": "Niyukta",
+      "lastName": "Karmacharya",
+      "birthdate": "2004-08-04",
+      "email": "niyukta@gmail.com",
+      "phone": "9800000000",
+      "street1": "Nayabazar",
+      "city": "kathmandu",
+      "stateProvince": "kathmadndu",
+      "postalCode": "446000",
+      "country": "Nepal"
+
+  }
+}
